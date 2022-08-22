@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
  * 它要等待其他4个任务执行完毕之后才能执行，此时就可以利用CountDownLatch来实现这种功能了
  * @Date: Create in 10:33 PM 2019/5/30
  */
-public class CountDownLatchDemo {
+public class  CountDownLatchDemo {
 
 
     public static void main(String[] args) {
